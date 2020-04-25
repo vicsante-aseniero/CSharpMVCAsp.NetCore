@@ -1,4 +1,4 @@
-# CSharpMVCAsp.NetCore
+# CSharpMVCAsp.NetCore3+
 CSharp7 MVC using dotNet Core 3+
 
 Features
